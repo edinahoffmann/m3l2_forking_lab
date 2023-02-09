@@ -1,0 +1,2 @@
+Edina
+Frontend Developer course
